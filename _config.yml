@@ -13,7 +13,8 @@ timezone: 'Asia/Ho_Chi_Minh'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://localhost:4000/
+# url: http://localhost:4000/
+url: https://tackelua.github.io/blog/
 root: /
 permalink: posts/:title/
 permalink_defaults:
@@ -103,4 +104,7 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: 'https://github.com/tackelua/blog'
+  branch: gh-pages
+  message: hexo deploy
