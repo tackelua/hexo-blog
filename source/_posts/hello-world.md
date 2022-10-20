@@ -1,38 +1,13 @@
 ---
 title: Hello World
+date: 2022-10-21
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Xin chào, tôi tên đầy đủ là Bùi Gia Thịnh, tôi hay gọi một cách ngắn gọn là Gith.
 
-### Create a new post
+Từ lâu tôi đã muốn viết một blog cho riêng mình, để ghi lại những điều hay ho mà tôi đã trải qua trong quá trình làm việc và tìm tòi nghiên cứu.
 
-``` bash
-$ hexo new "My New Post"
-```
+Đây cũng là nơi ghi lại những kiến thức để tôi có thể tra cứu lại sau này.
+Và cũng là nơi chia sẻ những gì tôi biết cho những người có cùng đam mê với tôi.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+Chào mừng đến với Gith's blog !
